@@ -24,7 +24,7 @@ function Footer(props) {
 		              Argentina<br />
 		              <i className="fa fa-phone fa-lg"></i>: +54 11 1234 5678<br />
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:contact@app.com">
-                         confusion@food.net</a>
+                        contact@app.com</a>
                     </address>
                 </div>
                 <div className="col-12 col-sm-4 align-self-center">
@@ -40,7 +40,7 @@ function Footer(props) {
             </div>
             <div className="row justify-content-center">             
                 <div className="col-auto">
-                    <p>© Copyright 2018 Ristorante Con Fusion</p>
+                    <p>© Copyright 2018 </p>
                 </div>
             </div>
         </div>
